@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+//made with the help of this tutorial
+//https://blog.eduonix.com/java-programming-2/learn-create-basic-calculator-java-using-netbeans/
 /**
  *
  * @author moham
